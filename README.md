@@ -1,3 +1,3 @@
 # expenses_app
 
-A new Flutter Expense-Tracker App
+A Flutter Expense-Tracker App
